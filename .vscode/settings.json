@@ -1,0 +1,17 @@
+{
+    "cSpell.language": "en,en-GB,en-US",
+    // Specify file types to spell check.
+    "cSpell.enabledLanguageIds": [
+        "csharp",
+        "go",
+        "javascript",
+        "javascriptreact",
+        "markdown",
+        "php",
+        "plaintext",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml"
+    ],
+}
